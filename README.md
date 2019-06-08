@@ -10,3 +10,6 @@ https://docs.google.com/presentation/d/1gbSyXvEhbyBMGelNxf3MaTh6iAAl-7frgSInDr27
 
 # Polkadot 
 https://docs.google.com/presentation/d/1YJ5ViJIvQAUbO6iAhEHgCIcFemceJcDw0S_Wcmgwc4c/edit?usp=sharing
+
+# Transaction Objects 
+https://docs.google.com/presentation/d/1kiTqJcU_71FJJCxaTA-WJq64VZ0bqPN7UB46nGPs1no/edit?usp=sharing
